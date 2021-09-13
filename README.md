@@ -4,8 +4,5 @@
 - 💞️ I’m looking to collaborate on python , sql , c++ and front-end development.
 - 📫 How to reach me : samarthmath7@gmail.com
 
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api//top-langs?username=samarth2727&show_icons=true&locale=en&layout=compact" /> </p>
 
-<!---
-samarth2727/samarth2727 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
